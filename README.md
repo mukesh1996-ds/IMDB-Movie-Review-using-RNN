@@ -81,8 +81,8 @@ Non-trainable params: 0
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone [<repository-url>](https://github.com/mukesh1996-ds/IMDB-Movie-Review-using-RNN.git)
+   cd IMDB-Movie-Review-using-RNN
    ```
 
 2. **Install Dependencies**
